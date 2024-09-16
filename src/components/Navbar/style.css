@@ -1,0 +1,18 @@
+.main__container {
+  padding: 20px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(49, 117, 100);
+}
+
+.inner__div h1 {
+  color: white;
+}
+.custom__inp {
+  display: none;
+}
+.input__label {
+  color: white;
+  cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.home__main {
+  height: 87.5dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.preview__main__div {
+  height: 99%;
+  width: 99%;
+}
+
+.preview__images {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
